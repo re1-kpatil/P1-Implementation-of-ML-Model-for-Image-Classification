@@ -31,9 +31,9 @@ To run this project locally:
    - git clone https://github.com/your-username/image-classifier.git
   cd image-classifier
 2. Install required packages:
-  - pip install -r requirements.txt
+   - pip install -r requirements.txt
 3. Run the Streamlit app:
-  - streamlit run app.py
+   - streamlit run app.py
 4. Open the app in your browser and upload a .png image to get predictions.
 ## Future Enhancements
 - Add support for color images and other datasets.
