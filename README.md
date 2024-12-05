@@ -22,7 +22,7 @@ This project is a web-based image classifier using Streamlit and a CNN trained o
 3. Output:
    - The app displays the predicted clothing category (e.g., T-shirt, Sneaker) and the model's confidence in percentage.
 ## Dataset
--Fashion MNIST Dataset:
+### - Fashion MNIST Dataset:
 - Contains 60,000 training images and 10,000 testing images of clothing items in 10 categories.
 - Categories: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle Boot.
 ## Future Enhancements
