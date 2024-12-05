@@ -22,19 +22,9 @@ This project is a web-based image classifier using Streamlit and a CNN trained o
 3. Output:
    - The app displays the predicted clothing category (e.g., T-shirt, Sneaker) and the model's confidence in percentage.
 ## Dataset
-* Fashion MNIST Dataset:
+-Fashion MNIST Dataset:
 - Contains 60,000 training images and 10,000 testing images of clothing items in 10 categories.
 - Categories: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle Boot.
-## Installation Instructions
-To run this project locally:
-1. Clone the repository:
-   - git clone https://github.com/your-username/image-classifier.git
-  cd image-classifier
-2. Install required packages:
-   - pip install -r requirements.txt
-3. Run the Streamlit app:
-   - streamlit run app.py
-4. Open the app in your browser and upload a .png image to get predictions.
 ## Future Enhancements
 - Add support for color images and other datasets.
 - Implement advanced models like MobileNet (with optimizations for low-resource environments).
